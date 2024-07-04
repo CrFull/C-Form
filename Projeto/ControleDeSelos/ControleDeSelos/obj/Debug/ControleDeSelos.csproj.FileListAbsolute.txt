@@ -1,0 +1,49 @@
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe.config
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.pdb
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csprojResolveAssemblyReference.cache
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.Properties.Resources.resources
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaLogin.resources
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csproj.GenerateResource.Cache
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.exe
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.pdb
+c:\users\david gomesh\documents\visual studio 2015\Projects\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.MenuPrincipal.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe.config
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.exe
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.pdb
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.pdb
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csprojResolveAssemblyReference.cache
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaVeiculo.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.MenuPrincipal.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.Properties.Resources.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaLogin.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaProprietario.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csproj.GenerateResource.Cache
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe.config
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.exe
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.pdb
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.pdb
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csprojResolveAssemblyReference.cache
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaVeiculo.resources
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.MenuPrincipal.resources
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.Properties.Resources.resources
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaLogin.resources
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaProprietario.resources
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Implementação\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csproj.GenerateResource.Cache
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe.config
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.exe
+G:\IFMA\602\2° Semestre\LDS\Atividades\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.pdb
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe.config
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.exe
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.pdb
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.exe
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\bin\Debug\ControleDeSelos.pdb
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csprojResolveAssemblyReference.cache
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaVeiculo.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.MenuPrincipal.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.Properties.Resources.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaLogin.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.TelaProprietario.resources
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano\2° Semestre\LDS\Atividades\Projeto Controle de Selos\Versão 3.0\Projeto Controle de Selos\Projeto\ControleDeSelos\ControleDeSelos\obj\Debug\ControleDeSelos.csproj.GenerateResource.Cache

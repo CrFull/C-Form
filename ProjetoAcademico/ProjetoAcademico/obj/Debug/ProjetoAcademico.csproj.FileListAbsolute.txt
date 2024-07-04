@@ -1,0 +1,28 @@
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\bin\Debug\ProjetoAcademico.exe.config
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\bin\Debug\ProjetoAcademico.exe
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\bin\Debug\ProjetoAcademico.pdb
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csprojResolveAssemblyReference.cache
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.frmPrincipal.resources
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.Properties.Resources.resources
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csproj.GenerateResource.Cache
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csproj.CoreCompileInputs.cache
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.exe
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.pdb
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\bin\Debug\MySql.Data.DLL
+C:\Users\maurolcsilva\Documents\Visual Studio 2017\Projects\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.frmCadastrarProfessor.resources
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\bin\Debug\ProjetoAcademico.exe.config
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.exe
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.pdb
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano 502\APV\Projetos APV\ProjetoAcademico\ProjetoAcademico\bin\Debug\ProjetoAcademico.exe.config
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano 502\APV\Projetos APV\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.exe
+C:\Users\joaos\Desktop\Pendrive\Pendrive\3 º ano 502\APV\Projetos APV\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.pdb
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\bin\Debug\ProjetoAcademico.exe
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\bin\Debug\ProjetoAcademico.pdb
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csproj.AssemblyReference.cache
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csproj.SuggestedBindingRedirects.cache
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.frmCadastrarProfessor.resources
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.frmPrincipal.resources
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.Properties.Resources.resources
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csproj.GenerateResource.cache
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csproj.CoreCompileInputs.cache
+C:\Users\joaos\Desktop\ProjetoAcademico\ProjetoAcademico\obj\Debug\ProjetoAcademico.csproj.CopyComplete
